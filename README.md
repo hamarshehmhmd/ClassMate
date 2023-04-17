@@ -10,14 +10,15 @@ This is a homework project that involves implementing a simple student and lectu
 
 ### Installation
 
-1. Clone the project repository using the following command: $ git clone https://github.com/hamarshehmhmd/ClassMate.git
-2. Navigate to the project directory.
+1. Clone the project repository using the following command: 
+`$ git clone https://github.com/hamarshehmhmd/ClassMate.git`
+2. Navigate to the project directory: `cd ClassMate`
 
 ### Usage
 
 1. Open a terminal or command prompt.
 2. Navigate to the project directory.
-3. Run the following command: $ python main.py
+3. Run the following command: `$ python main.py`
 
 4. Follow the prompts to create a new student or lecturer, enroll them in courses, and calculate their GPA or load.
 
